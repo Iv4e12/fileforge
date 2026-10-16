@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.FileForge" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#0D1520</item>
+    </style>
+</resources>
